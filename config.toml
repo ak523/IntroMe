@@ -7,13 +7,10 @@ theme = "pulp"
   series = "series"
 
 [params]
-    author = "Club Gamma"
+    author = "🌷🤩Livsnjutare🌙♒"
     avatar = "logo.jpeg"
-    favicon = "favicon.ico"
-    description = """
-        Welcome to Club Gamma.
-        Click on the "edit" icon below to see contributors list. Fork the repo and check the README.md
-    """
+    favicon = "aquarius-16.png"
+    
     publicationYear = "2021"
 
 [outputs]
@@ -27,31 +24,24 @@ theme = "pulp"
 
 
 [[menu.main]]
-    identifier = "twitter"
-    # name = "Twitter"
-    pre = "<i class='fab fa-twitter fa-lg'></i>"
-    url = "https://twitter.com/club_gamma"
-    weight = 20
-
-[[menu.main]]
     identifier = "github"
     # name = "GitHub"
     pre = "<i class='fab fa-github fa-lg'></i>"
-    url = "https://github.com/clubgamma/"
+    url = "https://github.com/Hetvi07/"
     weight = 30
 
 
 [[menu.main]]
-    identifier = "youtube"
-    # name = "Youtube"
-    pre = "<i class='fab fa-youtube fa-lg'></i>"
-    url = "https://www.youtube.com/channel/UCFO_j0Kml2tT3aFgVUSYGxQ"
+    identifier = "linkedin"
+    # name = "LinkedIn"
+    pre = "<i class='fab fa-linkedin fa-lg'></i>"
+    url = "https://www.linkedin.com/in/hetvi07/"
     weight = 32
 [[menu.main]]
     identifier = "instagram"
     # name = "Instagram"
     pre = "<i class='fab fa-instagram fa-lg'></i>"
-    url = "https://www.instagram.com/club_gamma/"
+    url = "https://www.instagram.com/hadvanihetvi/"
     weight = 33
 
 
