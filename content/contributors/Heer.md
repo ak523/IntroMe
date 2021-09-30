@@ -1,34 +1,33 @@
 
 ---
-title: "Heer"
-date: 2021-09-27
+title: "Hetvi"
+date: 2021-10-01
 draft: false
 ---
 
 ## About me
 Hello All,
 
-I'm Heer.
+I'm Hetvi.
 
-My name is Heer and pursing my Bachelor’s Degree from Charotar University of Science and Technology and currently studying in Third year. I love eating chocolates.
+My friends call me Heer. I'm pursing my Bachelor’s Degree in Computer Engineering from Charotar University of Science and Technology and currently studying in Third year. 
 
-So on that note let me share with you guys one sweet poem on chocolates:
+I love programming, mathematics and mythology. I play Guitar in my free time.
 
-- *Chocolate is sweet*</br> 
-- *and so good to eat.*</br>
-- *I like it whenever*</br>
-- *I need a good treat.*</br>
+Also, I love sweets and chocolates. 🍫🧁So on that note let me share with you guys one sweet poem on chocolates:
+
+" ***Chocolate is sweet and so good to eat.***</br>
+
+ &nbsp; ***I like it whenever, I need a good treat.***</br>
 
 
-- *In brownies and cookies*</br>
-- *and chocolate cake,*</br>
-- *it adds extra sweetness*</br>
-- *to everything you bake.*</br>
+&nbsp; ***In brownies and cookies
+and chocolate cake,***</br>
 
-- *White chocolate. dark chocolate*</br>
--  *and milk chocolate galore,*</br> 
-- *I know I could eat 100 pieces or more!*</br>
-- *That is for sure ;)*
+&nbsp; ***It adds extra sweetness to everything you bake.***</br>
+
+&nbsp; ***White chocolate, dark chocolate and milk chocolate galore,***</br> 
+&nbsp; ***I know I could eat 100 pieces or more! That is for sure ;)"***
 
 
 Thank You
