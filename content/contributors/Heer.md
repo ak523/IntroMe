@@ -20,14 +20,12 @@ Also, I love sweets and chocolates. 🍫🧁So on that note let me share with yo
 
  &nbsp; ***I like it whenever, I need a good treat.***</br>
 
-
-&nbsp; ***In brownies and cookies
-and chocolate cake,***</br>
+&nbsp; ***In brownies and cookies and chocolate cake,***</br>
 
 &nbsp; ***It adds extra sweetness to everything you bake.***</br>
 
-&nbsp; ***White chocolate, dark chocolate and milk chocolate galore,***</br> 
-&nbsp; ***I know I could eat 100 pieces or more! That is for sure ;)"***
+&nbsp; ***White chocolate, dark chocolate and milk chocolate galore ***</br> 
 
+&nbsp; ***I know I could eat 100 pieces or more! That is for sure ;)"***
 
 Thank You
